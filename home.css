@@ -1,0 +1,67 @@
+/*Ahmed Ben Daya / p1161664 */
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: green;
+    font-style: italic;
+}
+
+#name {
+    position: absolute;
+    right: 10px;
+    top: 0px;
+}
+
+#title {
+    width: 500px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+#priceEntree {
+    margin-right: 50px;
+}
+
+#menu {
+    width: 1000px;
+    margin: auto;
+    color:blue;
+    font-size: 120%;
+}
+
+
+.inlineD {
+    display: inline;
+    margin-right: 20px;
+}
+
+.marginT {
+    margin-top: 20px;
+}
+
+hr {
+    height: 2px;
+    background-color:black;
+    margin-top:30px;
+}
+
+.imgSize {
+    width: 100px;
+}
+
+.leftP {
+    position: absolute;
+    right:10px;
+}
